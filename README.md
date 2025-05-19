@@ -1,3 +1,3 @@
 # first
-first repository
+first repository \n
 ding ding ding
